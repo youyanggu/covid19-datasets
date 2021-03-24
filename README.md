@@ -10,7 +10,7 @@ This repository contains aggregated datasets generated from the *covid19-project
 
 ## Other Repositories
 
-- [Main data repository](https://github.com/youyanggu/covid19_projections)
+- [Main COVID-19 Repository](https://github.com/youyanggu/covid19_projections)
 - [Infections Estimates](https://github.com/youyanggu/covid19-infection-estimates-latest)
 - [Historical CDC Vaccination Data](https://github.com/youyanggu/covid19-cdc-vaccination-data)
 - [SEIR Simulator](https://github.com/youyanggu/yyg-seir-simulator)
