@@ -8,6 +8,7 @@ This repository contains aggregated datasets generated from the *covid19-project
 * `us_states_infection_estimates_time_series.csv` - 1.8MB - Data up until 2021-03-07 - Time series of infection estimates and reported cases & deaths for all US states and territories. Filtered from https://github.com/youyanggu/covid19-infection-estimates-latest/blob/main/latest_all_estimates_states.csv for your convenience.
 * `us_infection_estimates_time_series.csv` - 36KB - Data up until 2021-03-07 - Time series of infection estimates and reported cases & deaths for the US nationally. Filtered from https://github.com/youyanggu/covid19-infection-estimates-latest/blob/main/latest_all_estimates_us.csv for your convenience.
 * `us_states_misc_stats.csv` - 5KB - Data updated 2021-06-22 - Contains various statistics about all 50 states + DC, such as COVID-19 deaths per 100k, change in unemployment rates, population density, median age, etc. (*2021-06-22 Update*: We also recommend [this dataset by Joseph Sill](https://github.com/jsill/usstatecovidanalysis/blob/main/us_states_covid_death_potential_covariates.csv), which was inspired by this project and contains many more variables).
+* `final_vaccination_projections_2021-03-05.csv` - 10KB - The final vaccination projects made by the *covid19-projections.com* vaccination model on March 5, 2021. See a visual of these projections [here](https://covid19-projections.com/path-to-herd-immunity/).
 
 ## Other Repositories
 
